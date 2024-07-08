@@ -1,4 +1,4 @@
 # NewREPO
 myfirst repo in git hub
 <br>
-Author- Pratik Rathod
+Author- Pratik Rathod(Goverment polytechnic)
